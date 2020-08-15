@@ -6,9 +6,12 @@
 
 ### 作成者
 
-むちゃん [HongMuchang](https://github.com/HongMuchang)
+むちゃん [@HongMuchang](https://github.com/HongMuchang)
 
-日髙凜太郎 [HidakaRintaro](https://github.com/HidakaRintaro)
+日髙凜太郎 [@HidakaRintaro](https://github.com/HidakaRintaro)
 
 ### 使用技術
 
+PHP
+
+HTML
